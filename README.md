@@ -1,0 +1,1 @@
+This is just the project files i used in the tutorial on how to run a Hugging face model locally on you pc with Gpu, I ran a model with 8 billion parameters, it was not perfect but just works fine. Go check it out on my Youtube channel. 
